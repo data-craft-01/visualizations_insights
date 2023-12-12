@@ -1,0 +1,1 @@
+- This folder has various scenarios of operational analytics insights
